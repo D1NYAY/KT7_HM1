@@ -2,7 +2,6 @@ package com.example.kt7_hm1.data.mappers
 
 import com.example.kt7_hm1.data.model.NoteEntity
 import com.example.kt7_hm1.domain.model.Note
-
 fun NoteEntity.toNote() = Note(
     id, title, desc, createdAd
 )

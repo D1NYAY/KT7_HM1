@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KT7_HM1</string>
+    <string name="note">note</string>
+    <string name="description">description</string>
+    <string name="write">write</string>
+    <string name="remove">remove</string>
 </resources>
